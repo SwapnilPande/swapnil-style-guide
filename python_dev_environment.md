@@ -1,7 +1,7 @@
 # Python Style Guide
 The following document outlines my style guide for Python development. The core of this style is the Google Style Guide for Python. However, this extends the Google guide to include a standard for package managers, source control, testing, and more. 
 
-One of the key tenets of this style guide is to minimize the friction of the development environment. Obviously, this means standardizing syntax using auto-formatters, linting code, auto-generating docs, etc. However, this also means minimizing the effort of spinning up a new project. Often times, powerful solutions such as CI/CD environments that handle auto-formatting and testing are overkill for small-to-medium sized projects. Without standards defined for these, I often find myself neglecting good practices vompletely, resulting in untested and unstable code. ***The complexity of the development environment should scale with the complexity of the project***
+One of the key tenets of this style guide is to minimize the friction of the development environment. Obviously, this means standardizing syntax using auto-formatters, linting code, auto-generating docs, etc. However, this also means minimizing the effort of spinning up a new project. Often times, powerful solutions such as CI/CD environments that handle auto-formatting and testing are overkill for small-to-medium sized projects. Without standards defined for these, I often find myself neglecting good practices completely, resulting in untested and unstable code. ***The complexity of the development environment should scale with the complexity of the project***
 
 ## Syntax
 I fully adopt the [Google Style Guide](https://google.github.io/styleguide/pyguide.html) for syntax style. 
